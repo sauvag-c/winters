@@ -1,0 +1,21 @@
+MidJourney prompts (token & portrait variants) - copy/paste and adjust aspect ratio/flags
+
+TOKEN (1:1) examples:
+1) Bucket token --ar 1:1
+"bucket the butler, charming automaton bust, polished wood and brass, glowing blue eyes, miniature tuxedo, polite smug expression, simple clean background, high detail --ar 1:1 --v 6 --q 2"
+
+2) Makob Jarley token --ar 1:1
+"makob jarley, ghostly elderly businessman bust, translucent suit, top hat, snowy beard, hollow white eyes, ethereal chains, wispy mist, high detail --ar 1:1 --v 6 --q 2"
+
+3) Spectre token (past) --ar 1:1
+"spectre of midwinter past, demonic groom bust, horns, torn tuxedo, icy breath, theatrical expression, high detail --ar 1:1 --v 6 --q 2"
+
+PORTRAIT (2:3):
+4) Krampus portrait --ar 2:3
+"krampus of midwinter, hulking fiend with shaggy fur, twisted antlers, jagged teeth, rusty scythe over shoulder, snowflake breath, atmospheric rim light, ultra-detailed portrait --ar 2:3 --v 6 --q 2"
+
+SCENE (16:9):
+5) Bodrum Manor exterior --ar 16:9
+"bodrum manor exterior on a hill, gothic manor with snow, faint spectral lights in windows, moonlit sky, cinematic wide-angle, high detail --ar 16:9 --v 6 --q 2"
+
+Notes: For tokens, 1:1 is recommended; for portraits 2:3; scenes 16:9. Remove model flags if your MJ version differs.

@@ -1,0 +1,17 @@
+{
+  "name": "spectres-of-midwinter",
+  "title": "Spectres of Midwinter (Foundry Module)",
+  "description": "Foundry module for the 'Spectres of Midwinter' hunt. Host the ZIP at the 'download' URL below, then paste this manifest URL into Foundry's Install Module by URL.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Converted with ChatGPT"
+    }
+  ],
+  "download": "https://your-host.example/spectres_of_midwinter_foundry_module_full.zip",
+  "license": "All Rights Reserved (see original PDF legal page)",
+  "url": "https://your-host.example/spectres-of-midwinter/",
+  "manifest": "https://your-host.example/spectres-of-midwinter/manifest.json",
+  "readme": "https://your-host.example/spectres-of-midwinter/README.txt",
+  "compatibleCoreVersion": "13.350"
+}

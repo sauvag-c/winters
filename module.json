@@ -1,0 +1,37 @@
+{
+  "name": "spectres-of-midwinter",
+  "title": "Spectres of Midwinter (Foundry Module)",
+  "description": "Complete Foundry import module scaffold for 'Spectres of Midwinter'. Includes actors with stat summaries, scenes placeholders, items, journals, and MidJourney prompts. Host the ZIP and use the manifest.json to install via URL.",
+  "version": "1.0.0",
+  "author": "Converted with ChatGPT",
+  "esmodules": [],
+  "styles": [],
+  "scripts": [],
+  "packs": [
+    {
+      "name": "spectres-actors",
+      "label": "Spectres of Midwinter - Actors",
+      "path": "packs/spectres-actors.db",
+      "entity": "Actor",
+      "type": "Actor"
+    },
+    {
+      "name": "spectres-items",
+      "label": "Spectres of Midwinter - Items",
+      "path": "packs/spectres-items.db",
+      "entity": "Item",
+      "type": "Item"
+    },
+    {
+      "name": "spectres-journal",
+      "label": "Spectres of Midwinter - Journals",
+      "path": "packs/spectres-journal.db",
+      "entity": "JournalEntry",
+      "type": "JournalEntry"
+    }
+  ],
+  "minimumCoreVersion": "13",
+  "compatibleCoreVersion": "13.350",
+  "manifest": "module.json",
+  "download": ""
+}
