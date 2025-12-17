@@ -11,7 +11,7 @@
   "download": "https://your-host.example/spectres_of_midwinter_foundry_module_full.zip",
   "license": "All Rights Reserved (see original PDF legal page)",
   "url": "https://your-host.example/spectres-of-midwinter/",
-  "manifest": "https://your-host.example/spectres-of-midwinter/manifest.json",
+  "manifest": "https://github.com/sauvag-c/winters/blob/main/manifest.json",
   "readme": "https://your-host.example/spectres-of-midwinter/README.txt",
   "compatibleCoreVersion": "13.350"
 }
